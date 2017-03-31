@@ -109,11 +109,11 @@ Here are a couple sample output images :
 
 Here is the final output video : 
 
-[![Project video](https://img.youtube.com/vi/FM_F8Q7Dzzk/0.jpg)](https://www.youtube.com/watch?v=FM_F8Q7Dzzk "Project video")   
+[![Project video](https://img.youtube.com/vi/kIUPB5wd10E/0.jpg)](https://www.youtube.com/watch?v=kIUPB5wd10E "Project video")   
 
 and here is one on a more challenging road : 
 
-[![Project video](https://img.youtube.com/vi/l-OQw5OvOR8/0.jpg)](https://www.youtube.com/watch?v=l-OQw5OvOR8 "Project video") 
+[![Project video](https://img.youtube.com/vi/A1_HX8_tke4/0.jpg)](https://www.youtube.com/watch?v=A1_HX8_tke4 "Project video") 
 
 --
 
